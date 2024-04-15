@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/70/94/2a/70942ab8af93587762553f8b2b97dbb1.gif"  />
+  <img height="220" src="https://i.pinimg.com/originals/70/94/2a/70942ab8af93587762553f8b2b97dbb1.gif"  />
 </div>
 
 ###
@@ -9,12 +9,13 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="65" alt="csharp logo"  />
   <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="65" alt="dotnetcore logo"  />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="65" alt="typescript logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="65" alt="angularjs logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="65" alt="mongodb logo"  />
-  <img width="25" />
 </div>
 
 ###
