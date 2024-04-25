@@ -24,13 +24,13 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/57/6b/71/576b717df6d2e658834ee2243cf03fef.gif"  />
+<img align="right" height="220" src="https://i.pinimg.com/originals/57/6b/71/576b717df6d2e658834ee2243cf03fef.gif"  />
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/rpagzy42q8lg5c6txq4jhl7fb">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rpagzy42q8lg5c6txq4jhl7fb&count=4" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rpagzy42q8lg5c6txq4jhl7fb&count=3" alt="Spotify recently played"  />
   </a>
 </div>
 
