@@ -22,11 +22,11 @@
 
 ###
 
-<img align="left" height="280" src="https://i.pinimg.com/originals/57/6b/71/576b717df6d2e658834ee2243cf03fef.gif"  />
+<img align="left" height="150" src="https://i.pinimg.com/originals/57/6b/71/576b717df6d2e658834ee2243cf03fef.gif"  />
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://open.spotify.com/user/rpagzy42q8lg5c6txq4jhl7fb">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=rpagzy42q8lg5c6txq4jhl7fb&count=4&unique=false" alt="Spotify recently played"  />
   </a>
