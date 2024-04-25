@@ -19,12 +19,12 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luunaacyy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luunaacyy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="140" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="300" src="https://i.pinimg.com/originals/57/6b/71/576b717df6d2e658834ee2243cf03fef.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/57/6b/71/576b717df6d2e658834ee2243cf03fef.gif"  />
 
 ###
 
