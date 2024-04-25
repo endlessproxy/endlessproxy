@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=luunaacyy.luunaacyy&left_color=black&right_color=crimson&left_text=Profile%20Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=luunaacyy.luunaacyy&left_color=black&right_color=darkgreen&left_text=Profile%20Views"  />
 </div>
 
 ###
