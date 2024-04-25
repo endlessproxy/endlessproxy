@@ -24,13 +24,9 @@
 
 ###
 
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/57/6b/71/576b717df6d2e658834ee2243cf03fef.gif"  />
-</div>
+<img align="right" height="200" src="https://i.pinimg.com/originals/57/6b/71/576b717df6d2e658834ee2243cf03fef.gif"  />
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://open.spotify.com/user/rpagzy42q8lg5c6txq4jhl7fb">
@@ -43,6 +39,12 @@
 <br clear="both">
 
 <div align="center">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=luunaacyy.luunaacyy&left_color=black&right_color=crimson&left_text=Profile%20Views"  />
 </div>
 
 ###
