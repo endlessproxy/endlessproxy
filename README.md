@@ -1,16 +1,13 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="50" alt="angularjs logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="50" alt="angularjs logo"  />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img width="20" />
 </div>
 
 ###
