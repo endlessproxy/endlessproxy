@@ -19,12 +19,12 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luunaacyy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="140" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luunaacyy&hide_border=true&radius=100&line=FF2626&custom_title=%20&color=FFFAFA&bg_color=000000&area=false&point=FFFAFA" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img align="right" height="220" src="https://i.pinimg.com/originals/57/6b/71/576b717df6d2e658834ee2243cf03fef.gif"  />
+<img align="right" height="220" src="https://i.pinimg.com/originals/e4/7c/67/e47c6734006f65fdf8df8a0c3f359ba1.gif"  />
 
 ###
 
@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=luunaacyy.luunaacyy&left_color=black&right_color=purple&left_text=Profile%20Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=luunaacyy.luunaacyy&left_color=black&right_color=crimson&left_text=Profile%20Views"  />
 </div>
 
 ###
