@@ -7,7 +7,7 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="50" alt="angularjs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
 </div>
 
 ###
