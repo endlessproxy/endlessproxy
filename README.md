@@ -13,10 +13,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luunaacyy&hide_border=true&radius=100&line=FF2626&custom_title=%20&color=FFFAFA&bg_color=000000&area=false&point=FFFAFA" height="150" alt="activity-graph graph"  />
-</div>
-
 ###
 
 <img align="right" height="220" src="https://i.pinimg.com/originals/e4/7c/67/e47c6734006f65fdf8df8a0c3f359ba1.gif"  />
