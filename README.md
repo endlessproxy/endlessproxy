@@ -3,8 +3,7 @@
 <div align="center">
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="50" alt="angularjs logo"  />
+  
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
 </div>
