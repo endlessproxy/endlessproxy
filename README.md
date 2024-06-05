@@ -5,7 +5,6 @@
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
 </div>
 
 ###
