@@ -20,7 +20,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wxxviolet.wxxviolet&right_color=rebeccapurple&left_text=Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wxxeternal.wxxeternal&right_color=rebeccapurple&left_text=Views"  />
 </div>
 
 ###
