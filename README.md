@@ -20,7 +20,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=postman,mysql,mongodb,git" />
   </a>
-  <p align="center">Tenho familiaridade básica com algumas tecnologias acíma.</p>
+  <p align="center">Tenho familiaridade básica com algumas tecnologias acima.</p>
 </p>
 
 <br>
