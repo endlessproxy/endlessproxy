@@ -1,5 +1,5 @@
 <h3 align="center">Seja bem-vindo(a)! 👋</h3>
-<p align="center">Eu sou <strong>André</strong>, tenho <strong>18</strong> anos e sou apaixonado por programação e por explorar novas tecnologias. No meu tempo livre, gosto de criar projetos com diferentes tecnologias, apesar de ser iniciante e entendendo pouco. Meu foco principal é no desenvolvimento backend, onde busco constantemente aprender e evoluir.</p>
+<p align="center">Eu sou <strong>André</strong>, tenho <strong>18</strong> anos e sou apaixonado por programação e por explorar novas tecnologias. No meu tempo livre, gosto de criar projetos com diferentes tecnologias. Meu foco principal é no desenvolvimento backend, onde busco constantemente aprender e evoluir.</p>
 
 <br>
 
