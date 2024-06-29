@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 Atualmente estou aprendendo **NodeJS**
+- 🌱 Atualmente estou aprendendo **ExpressJS**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://tinyurl.com/ohneeternal](https://tinyurl.com/ohneeternal)
 
