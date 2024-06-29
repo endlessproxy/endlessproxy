@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **ExpressJS**
 
-- 🌐 **Português** 🇧🇷 | **Espanhol** 🇪🇸 (Leitura e escrita) | **Inglês** 🇺🇸 (Leitura e escrita) | **Alemão** 🇩🇪 (Comecei a estudar)
+- 🌐 Idiomas: **Português** 🇧🇷 | **Espanhol** 🇪🇸 (Leitura e escrita) | **Inglês** 🇺🇸 (Leitura e escrita) | **Alemão** 🇩🇪 (Comecei a estudar)
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [Meus Projetos](https://tinyurl.com/ohneeternal)
 
