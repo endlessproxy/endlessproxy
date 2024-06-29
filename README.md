@@ -5,9 +5,9 @@
 
 - 🌱 Atualmente estou aprendendo **ExpressJS**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://tinyurl.com/ohneeternal](https://tinyurl.com/ohneeternal)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [Meus Projetos](https://tinyurl.com/ohneeternal)
 
-- 📩 Contato: **andre.simoesdutra23@gmail.com**
+- 📩 Contato: [LinkedIn](https://linkedin.com/euandresimoes) ou **andre.simoesdutra23@gmail.com**
 
 <br>
 
