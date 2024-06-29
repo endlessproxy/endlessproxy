@@ -14,7 +14,9 @@
 <h3 align="center">Linguagens e Tecnologias:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,express,py,selenium,postman,git,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,express,py,selenium" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=postman,mysql,mongodb,git" />
   </a>
 </p>
 
