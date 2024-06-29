@@ -1,5 +1,5 @@
-<h1 align="center">Seja bem-vindo(a)! 👋</h1>
-<h3 align="center">Eu sou André, tenho 18 anos e sou apaixonado por programação e por explorar novas tecnologias. No meu tempo livre, gosto de criar projetos com tecnologias novas, apesar de ser iniciante e entendendo pouco. Meu foco principal é no desenvolvimento backend, onde busco constantemente aprender e evoluir.</h3>
+<h3 align="center">Seja bem-vindo(a)! 👋</h3>
+<h6 align="center">Eu sou André, tenho 18 anos e sou apaixonado por programação e por explorar novas tecnologias. No meu tempo livre, gosto de criar projetos com tecnologias novas, apesar de ser iniciante e entendendo pouco. Meu foco principal é no desenvolvimento backend, onde busco constantemente aprender e evoluir.</h6>
 
 - 🌱 Atualmente estou aprendendo **NodeJS**
 
