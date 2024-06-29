@@ -15,10 +15,4 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ohneEternaL.ohneEternaL&right_color=rebeccapurple&left_text=Views"  />
-</div>
-
 ###
