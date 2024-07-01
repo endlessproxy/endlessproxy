@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 Atualmente estou aprendendo sobre **API Rest**.
+- 🌱 Atualmente estou aprendendo sobre **Node**.
 
 - 🌐 Idiomas: **Português** 🇧🇷 | **Espanhol** 🇪🇸 (Leitura e escrita) | **Inglês** 🇺🇸 (Leitura e escrita) | **Alemão** 🇩🇪 (Comecei a estudar)
 
@@ -16,7 +16,7 @@
 <h3 align="center">Linguagens e Tecnologias:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,express,py,selenium" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,express,selenium" />
     <br>
     <img src="https://skillicons.dev/icons?i=postman,mysql,mongodb,git" />
   </a>
