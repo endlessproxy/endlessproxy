@@ -1,5 +1,5 @@
 <h3 align="center">Seja bem-vindo(a)! 👋</h3>
-<p align="center">Eu sou <strong>André</strong>, tenho <strong>18</strong> anos e sou apaixonado por programação e por explorar novas tecnologias. No meu tempo livre, gosto de criar projetos com diferentes tecnologias. Meu foco principal é no desenvolvimento backend, onde busco constantemente aprender e evoluir.</p>
+<p align="center">Eu sou André, tenho 18 anos e sou apaixonado por programação.<br>Estudo programação há quase 3 anos. Comecei criando bots com Discord.JS e depois passei a fazer sites com HTML, CSS e JavaScript,<br>mas percebi que meu lugar é no backend. Eu não tenho muita paciência para ficar centralizando div e trocando a cor de botãozinho hahah.</p>
 
 <br>
 
@@ -16,7 +16,7 @@
 <h3 align="center">Linguagens e Tecnologias:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,express,selenium" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,selenium" />
     <br>
     <img src="https://skillicons.dev/icons?i=mysql,postman,git" />
   </a>
