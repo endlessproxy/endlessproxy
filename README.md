@@ -1,5 +1,5 @@
 <h3 align="center">Seja bem-vindo(a)! 👋</h3>
-<p align="center">Eu sou André, tenho 18 anos e sou apaixonado por programação.<br>Estudo programação há quase 3 anos. Comecei criando bots com Discord.JS e depois passei a fazer sites com HTML, CSS e JavaScript,<br>mas percebi que meu lugar é no backend. Eu não tenho muita paciência para ficar centralizando div e trocando a cor de botãozinho hahah.</p>
+<p align="center">Eu sou André, tenho 18 anos e sou apaixonado por programação.<br>Estudo programação há quase 3 anos. Comecei criando bots com Discord.JS e depois passei a fazer sites com HTML, CSS e JavaScript,<br>mas percebi que meu lugar é no backend.<br>Eu não tenho muita paciência para ficar centralizando div e trocando a cor de botãozinho hahah.</p>
 
 <br>
 
