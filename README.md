@@ -9,7 +9,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [Meus Projetos](https://tinyurl.com/ohneeternal).
 
-- 📩 Contato: [LinkedIn](https://linkedin.com/euandresimoes) ou **andre.simoesdutra23@gmail.com**.
+- 📩 Contato: [LinkedIn](https://www.linkedin.com/in/euandresimoes/) ou **andre.simoesdutra23@gmail.com**.
 
 <br>
 
