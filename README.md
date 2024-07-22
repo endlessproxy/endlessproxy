@@ -7,7 +7,7 @@
 
 - 🌐 Idiomas: **Português** 🇧🇷 | **Espanhol** 🇪🇸 (Leitura e escrita) | **Inglês** 🇺🇸 (Leitura e escrita) | **Alemão** 🇩🇪 (Comecei a estudar)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [Meus Projetos](https://tinyurl.com/ohneeternal).
+- 👨‍💻 Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com/endlessproxy?tab=repositories).
 
 - 📩 Contato: [LinkedIn](https://www.linkedin.com/in/euandresimoes/) ou **andre.simoesdutra23@gmail.com**.
 
