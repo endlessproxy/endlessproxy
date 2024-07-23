@@ -1,6 +1,6 @@
 ## Seja bem-vindo(a)! 👋
 
-Eu sou André, tenho 18 anos e sou Desenvolvedor Backend 🧑‍💻. Sou apaixonado por explorar novas tecnologias e resolver problemas.
+Eu sou André, tenho 18 anos e sou Desenvolvedor Backend 🧑‍💻. Sou apaixonado por aprender novas tecnologias e resolver problemas.
 
 🌱 Atualmente estou aprendendo a usar o **Docker** 🐋
 
