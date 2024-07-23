@@ -1,25 +1,29 @@
-<h3 align="center">Seja bem-vindo(a)! 👋</h3>
-<p align="center">Eu sou André, tenho 18 anos e sou Dev Backend</p>
+## Seja bem-vindo(a)! 👋
 
-<br>
+Eu sou André, tenho 18 anos e sou Desenvolvedor Backend 🧑‍💻. Sou apaixonado por explorar novas tecnologias e resolver problemas.
 
-- 🌱 Atualmente estou estudando sobre **Node.js**.
+🌱 Atualmente estou aprendendo a usar o **Docker** 🐋
 
-- 🌐 Idiomas: **Português** 🇧🇷 | **Espanhol** 🇪🇸 (Leitura e escrita) | **Inglês** 🇺🇸 (Leitura e escrita) | **Alemão** 🇩🇪 (Comecei a estudar)
+🌐 **Idiomas:**
+- Português 🇧🇷
+- Espanhol 🇪🇸 (Leitura e escrita)
+- Inglês 🇺🇸 (Leitura e escrita)
+- Alemão 🇩🇪 (Comecei a estudar)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com/endlessproxy?tab=repositories).
+📦 **Meus Projetos:**
+Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com/endlessproxy?tab=repositories).
 
-- 📩 Contato: [LinkedIn](https://www.linkedin.com/in/euandresimoes/) ou **andre.simoesdutra23@gmail.com**.
+📩 **Contato:**
+[LinkedIn](https://www.linkedin.com/in/euandresimoes/) | **andre.simoesdutra23@gmail.com**
 
-<br>
+---
 
-<h3 align="center">Linguagens e Tecnologias:</h3>
+### 🛠️ Linguagens e Tecnologias:
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,selenium" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,selenium" alt="Tecnologias Backend" />
     <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postman,git" />
+    <img src="https://skillicons.dev/icons?i=mysql,postman,git" alt="Ferramentas de Desenvolvimento" />
   </a>
 </p>
-
-<br>
