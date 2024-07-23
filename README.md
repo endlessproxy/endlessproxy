@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 Atualmente estou aprendendo sobre **Node.js**.
+- 🌱 Atualmente estou estudando sobre **Node.js**.
 
 - 🌐 Idiomas: **Português** 🇧🇷 | **Espanhol** 🇪🇸 (Leitura e escrita) | **Inglês** 🇺🇸 (Leitura e escrita) | **Alemão** 🇩🇪 (Comecei a estudar)
 
