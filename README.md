@@ -2,8 +2,6 @@
 
 Eu sou André, tenho 18 anos e sou Desenvolvedor Backend. Sou apaixonado por aprender novas tecnologias e resolver problemas.
 
-- Atualmente estou aprendendo a usar o **Docker** 🐋
-
 🌐 **Idiomas:**
 - Português 🇧🇷
 - Espanhol 🇪🇸 (Leitura e escrita)
