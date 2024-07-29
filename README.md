@@ -20,7 +20,7 @@ Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,selenium" alt="Tecnologias Backend" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,prisma,selenium" alt="Tecnologias Backend" />
     <br>
     <img src="https://skillicons.dev/icons?i=mysql,postman,git" alt="Ferramentas de Desenvolvimento" />
   </a>
