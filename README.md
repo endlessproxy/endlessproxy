@@ -10,7 +10,7 @@ Atualmente estou aprendendo a usar o **Docker** 🐋
 - Inglês 🇺🇸 (Leitura e escrita)
 - Alemão 🇩🇪 (Comecei a estudar)
 
-📦 **Meus Projetos:**
+📦 **Projetos:**
 Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com/endlessproxy?tab=repositories).
 
 📩 **Contato:**
