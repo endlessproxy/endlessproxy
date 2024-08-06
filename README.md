@@ -14,7 +14,7 @@ Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com
 📩 **Contato:**
 [LinkedIn](https://www.linkedin.com/in/euandresimoes/) | **andre.simoesdutra23@gmail.com**
 
----
+##
 
 ### 🛠️ Linguagens e Tecnologias:
 
