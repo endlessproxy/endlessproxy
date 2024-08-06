@@ -1,6 +1,6 @@
 ## Seja bem-vindo(a)! 👋
 
-Eu sou André, tenho 18 anos e atualmente sou Desenvolvedor Backend a 3 anos. Eu amo aprender novas tecnologias e resolver problemas.
+Eu sou André, tenho 18 anos e atualmente sou Desenvolvedor Backend a 3 anos.
 
 * **Idiomas 🌐**
 * Português 🇧🇷
