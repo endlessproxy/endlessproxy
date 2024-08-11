@@ -24,3 +24,5 @@ Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com
     <img src="https://skillicons.dev/icons?i=postgresql,docker,postman,git" alt="Ferramentas de Desenvolvimento" />
   </a>
 </p>
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
