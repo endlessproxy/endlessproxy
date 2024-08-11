@@ -1,12 +1,3 @@
-## Seja bem-vindo(a)! 👋
-
-Eu sou André, tenho 18 anos e sou Desenvolvedor Backend.
-
-* **Idiomas 🌐**
-* Português 🇧🇷,
-* Espanhol 🇪🇸 (Leitura e escrita),
-* Inglês 🇺🇸 (Leitura e escrita)
-
 📦 **Projetos:**
 Todos os meus projetos estão disponíveis em [Meus Projetos](https://github.com/endlessproxy?tab=repositories).
 
